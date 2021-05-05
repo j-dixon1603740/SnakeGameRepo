@@ -1,3 +1,3 @@
 # Snake Game
 
-Snake game 
+First java game 
